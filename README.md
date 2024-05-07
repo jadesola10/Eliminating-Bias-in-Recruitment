@@ -1,4 +1,4 @@
-# Eliminating-Bias-in-Recruitment---Machine-Learning-modle
+# Eliminating-Bias-in-Recruitment---Machine-Learning
 
 Machine Learning project using Python
 
